@@ -1,3 +1,3 @@
 # Pug
 Honor pug
-https//:bokomolol.github.io/Pug
+https://bokomolol.github.io/Pug
